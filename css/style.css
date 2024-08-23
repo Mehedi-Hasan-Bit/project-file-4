@@ -1,0 +1,49 @@
+.img{
+	color: red;
+}
+.titel{
+	color: darkSlateGray;
+}
+.doctype{
+    color: maroon;
+}
+.rr{
+	color: mediumVioletRed;
+}
+.dt{
+	 color: darkOrange;
+}
+.fg{
+	color: cornflowerBlue;
+}
+.cc1{
+	color: crimson;
+}
+.cc2{
+	color: darkMagenta;
+}
+.border{
+	color: green;
+}
+.warpper{
+	width:80%;
+	margin:0 auto;
+	border:5px solid #ddd;
+}
+label{
+	font-size: 20px;
+}
+.first_name, .last_name, .email, .contact_number, .addres, .product_code{
+	width: 60%;
+	height: 5px;
+	padding: 10px;
+   font-size: 20px;
+}
+.src{
+   color: tomato;
+}
+body{
+   background: black;
+   color: white;
+
+}
